@@ -48,9 +48,9 @@
 |Pas + bras en haut D <br> Rotation G|<img src="./images/pas_bras_hauts_D.png" width=200px/>|<img src="./images/pas_bras_hauts_D.png" width=200px/>|<img src="./images/rotation_G.png" width=200px/>|...|
 |-|-|-|-|-|
 |Pas avant + bras côté G D G D|<img src="./images/pas_bras_bas_G.png" width=200px/>|<img src="./images/pas_bras_bas_D.png" width=200px/>|<img src="./images/pas_bras_bas_G.png" width=200px/>|<img src="./images/pas_bras_bas_D.png" width=200px/>|
-|Pas arrière + bras en avant|<img src="./images/pas_arriere.png" width=200px/>|...|...|...|
+|Pas arrière + bras en avant|<img src="./images/pas_arriere.png" width=200px/>|<img src="./images/pas_arriere.png" width=200px/>|<img src="./images/pas_arriere.png" width=200px/>|<img src="./images/pas_arriere.png" width=200px/>|
 |Pas avant + bras côté D G D G|<img src="./images/pas_bras_bas_D.png" width=200px/>|<img src="./images/pas_bras_bas_G.png" width=200px/>|<img src="./images/pas_bras_bas_D.png" width=200px/>|<img src="./images/pas_bras_bas_G.png" width=200px/>|
-|Pas arrière + bras en avant|<img src="./images/pas_arriere.png" width=200px/>|...|...|...|
+|Pas arrière + bras en avant|<img src="./images/pas_arriere.png" width=200px/>|<img src="./images/pas_arriere.png" width=200px/>|<img src="./images/pas_arriere.png" width=200px/>|<img src="./images/pas_arriere.png" width=200px/>|
 |-|-|-|-|-|
 |Casquette G|<img src="./images/pas_casquette_G.png" width=200px/>|<img src="./images/pas_casquette_G.png" width=200px/>|<img src="./images/pas_casquette_G.png" width=200px/>|<img src="./images/pas_casquette_G.png" width=200px/>|
 |Casquette D|<img src="./images/pas_casquette_D.png" width=200px/>|<img src="./images/pas_casquette_D.png" width=200px/>|<img src="./images/pas_casquette_D.png" width=200px/>|<img src="./images/pas_casquette_D.png" width=200px/>|
@@ -78,9 +78,9 @@
 |Pas + bras en haut D <br> Rotation G|<img src="./images/pas_bras_hauts_D.png" width=200px/>|<img src="./images/pas_bras_hauts_D.png" width=200px/>|<img src="./images/rotation_G.png" width=200px/>|...|
 |-|-|-|-|-|
 |Pas avant + bras côté G D G D|<img src="./images/pas_bras_bas_G.png" width=200px/>|<img src="./images/pas_bras_bas_D.png" width=200px/>|<img src="./images/pas_bras_bas_G.png" width=200px/>|<img src="./images/pas_bras_bas_D.png" width=200px/>|
-|Pas arrière + bras en avant|<img src="./images/pas_arriere.png" width=200px/>|...|...|...|
+|Pas arrière + bras en avant|<img src="./images/pas_arriere.png" width=200px/>|<img src="./images/pas_arriere.png" width=200px/>|<img src="./images/pas_arriere.png" width=200px/>|<img src="./images/pas_arriere.png" width=200px/>|
 |Pas avant + bras côté D G D G|<img src="./images/pas_bras_bas_D.png" width=200px/>|<img src="./images/pas_bras_bas_G.png" width=200px/>|<img src="./images/pas_bras_bas_D.png" width=200px/>|<img src="./images/pas_bras_bas_G.png" width=200px/>|
-|Pas arrière + bras en avant|<img src="./images/pas_arriere.png" width=200px/>|...|...|...|
+|Pas arrière + bras en avant|<img src="./images/pas_arriere.png" width=200px/>|<img src="./images/pas_arriere.png" width=200px/>|<img src="./images/pas_arriere.png" width=200px/>|<img src="./images/pas_arriere.png" width=200px/>|
 |-|-|-|-|-|
 |Casquette G|<img src="./images/pas_casquette_G.png" width=200px/>|<img src="./images/pas_casquette_G.png" width=200px/>|<img src="./images/pas_casquette_G.png" width=200px/>|<img src="./images/pas_casquette_G.png" width=200px/>|
 |Casquette D|<img src="./images/pas_casquette_D.png" width=200px/>|<img src="./images/pas_casquette_D.png" width=200px/>|<img src="./images/pas_casquette_D.png" width=200px/>|<img src="./images/pas_casquette_D.png" width=200px/>|
