@@ -52,20 +52,20 @@
 |Pas avant + bras côté D G D G|<img src="./images/pas_bras_bas_D.png" width=100px/>|<img src="./images/pas_bras_bas_G.png" width=100px/>|<img src="./images/pas_bras_bas_D.png" width=100px/>|<img src="./images/pas_bras_bas_G.png" width=100px/>|
 |Pas arrière + bras en avant|<img src="./images/pas_arriere.png" width=100px/>|...|...|...|
 |-|-|-|-|-|
-|Casquette G||||
-|Casquette D||||
-|Casquette G||||
-|Casquette D||||
+|Casquette G|<img src="./images/pas_casquette_G.png" width=100px/>|<img src="./images/pas_casquette_G.png" width=100px/>|<img src="./images/pas_casquette_G.png" width=100px/>|<img src="./images/pas_casquette_G.png" width=100px/>|
+|Casquette D|<img src="./images/pas_casquette_D.png" width=100px/>|<img src="./images/pas_casquette_D.png" width=100px/>|<img src="./images/pas_casquette_D.png" width=100px/>|<img src="./images/pas_casquette_D.png" width=100px/>|
+|Casquette G|<img src="./images/pas_casquette_G.png" width=100px/>|<img src="./images/pas_casquette_G.png" width=100px/>|<img src="./images/pas_casquette_G.png" width=100px/>|<img src="./images/pas_casquette_G.png" width=100px/>|
+|Casquette D|<img src="./images/pas_casquette_D.png" width=100px/>|<img src="./images/pas_casquette_D.png" width=100px/>|<img src="./images/pas_casquette_D.png" width=100px/>|<img src="./images/pas_casquette_D.png" width=100px/>|
 |-|-|-|-|-|
-|Vague G D <br> Pas + vague G G||||
-|Vague D G <br> Pas + vague D D||||
-|Vague G D <br> Pas + vague G G||||
-|Vague D G <br> Pas + vague D D||||
+|Vague G D <br> Pas + vague G G|<img src="./images/bras_vague_G.png" width=100px/>|<img src="./images/bras_vague_D.png" width=100px/>|<img src="./images/pas_bras_vague_G.png" width=100px/>|<img src="./images/pas_bras_vague_G.png" width=100px/>|
+|Vague D G <br> Pas + vague D D|<img src="./images/bras_vague_D.png" width=100px/>|<img src="./images/bras_vague_G.png" width=100px/>|<img src="./images/pas_bras_vague_D.png" width=100px/>|<img src="./images/pas_bras_vague_D.png" width=100px/>|
+|Vague G D <br> Pas + vague G G|<img src="./images/bras_vague_G.png" width=100px/>|<img src="./images/bras_vague_D.png" width=100px/>|<img src="./images/pas_bras_vague_G.png" width=100px/>|<img src="./images/pas_bras_vague_G.png" width=100px/>|
+|Vague D G <br> Pas + vague D D|<img src="./images/bras_vague_D.png" width=100px/>|<img src="./images/bras_vague_G.png" width=100px/>|<img src="./images/pas_bras_vague_D.png" width=100px/>|<img src="./images/pas_bras_vague_D.png" width=100px/>|
 |-|-|-|-|-|
-|Vague G D <br> Pas + vague G G||||
-|Vague D G <br> Pas + vague D D||||
-|Vague G D <br> Pas + vague G G||||
-|Vague D G <br> Pas + vague D D||||
+|Vague G D <br> Pas + vague G G|<img src="./images/bras_vague_G.png" width=100px/>|<img src="./images/bras_vague_D.png" width=100px/>|<img src="./images/pas_bras_vague_G.png" width=100px/>|<img src="./images/pas_bras_vague_G.png" width=100px/>|
+|Vague D G <br> Pas + vague D D|<img src="./images/bras_vague_D.png" width=100px/>|<img src="./images/bras_vague_G.png" width=100px/>|<img src="./images/pas_bras_vague_D.png" width=100px/>|<img src="./images/pas_bras_vague_D.png" width=100px/>|
+|Vague G D <br> Pas + vague G G|<img src="./images/bras_vague_G.png" width=100px/>|<img src="./images/bras_vague_D.png" width=100px/>|<img src="./images/pas_bras_vague_G.png" width=100px/>|<img src="./images/pas_bras_vague_G.png" width=100px/>|
+|Vague D G <br> Pas + vague D D|<img src="./images/bras_vague_D.png" width=100px/>|<img src="./images/bras_vague_G.png" width=100px/>|<img src="./images/pas_bras_vague_D.png" width=100px/>|<img src="./images/pas_bras_vague_D.png" width=100px/>|
 |-|-|-|-|-|
 |Avion D|<img src="./images/avion_D.png" width=100px/>|...|...|...|
 |Avion G|<img src="./images/avion_G.png" width=100px/>|...|...|...|
@@ -82,17 +82,17 @@
 |Pas avant + bras côté D G D G|<img src="./images/pas_bras_bas_D.png" width=100px/>|<img src="./images/pas_bras_bas_G.png" width=100px/>|<img src="./images/pas_bras_bas_D.png" width=100px/>|<img src="./images/pas_bras_bas_G.png" width=100px/>|
 |Pas arrière + bras en avant|<img src="./images/pas_arriere.png" width=100px/>|...|...|...|
 |-|-|-|-|-|
-|Casquette G||||
-|Casquette D||||
-|Casquette G||||
-|Casquette D||||
+|Casquette G|<img src="./images/pas_casquette_G.png" width=100px/>|<img src="./images/pas_casquette_G.png" width=100px/>|<img src="./images/pas_casquette_G.png" width=100px/>|<img src="./images/pas_casquette_G.png" width=100px/>|
+|Casquette D|<img src="./images/pas_casquette_D.png" width=100px/>|<img src="./images/pas_casquette_D.png" width=100px/>|<img src="./images/pas_casquette_D.png" width=100px/>|<img src="./images/pas_casquette_D.png" width=100px/>|
+|Casquette G|<img src="./images/pas_casquette_G.png" width=100px/>|<img src="./images/pas_casquette_G.png" width=100px/>|<img src="./images/pas_casquette_G.png" width=100px/>|<img src="./images/pas_casquette_G.png" width=100px/>|
+|Casquette D|<img src="./images/pas_casquette_D.png" width=100px/>|<img src="./images/pas_casquette_D.png" width=100px/>|<img src="./images/pas_casquette_D.png" width=100px/>|<img src="./images/pas_casquette_D.png" width=100px/>|
 |-|-|-|-|-|
-|Vague G D <br> Pas + vague G G||||
-|Vague D G <br> Pas + vague D D||||
-|Vague G D <br> Pas + vague G G||||
-|Vague D G <br> Pas + vague D D||||
+|Vague G D <br> Pas + vague G G|<img src="./images/bras_vague_G.png" width=100px/>|<img src="./images/bras_vague_D.png" width=100px/>|<img src="./images/pas_bras_vague_G.png" width=100px/>|<img src="./images/pas_bras_vague_G.png" width=100px/>|
+|Vague D G <br> Pas + vague D D|<img src="./images/bras_vague_D.png" width=100px/>|<img src="./images/bras_vague_G.png" width=100px/>|<img src="./images/pas_bras_vague_D.png" width=100px/>|<img src="./images/pas_bras_vague_D.png" width=100px/>|
+|Vague G D <br> Pas + vague G G|<img src="./images/bras_vague_G.png" width=100px/>|<img src="./images/bras_vague_D.png" width=100px/>|<img src="./images/pas_bras_vague_G.png" width=100px/>|<img src="./images/pas_bras_vague_G.png" width=100px/>|
+|Vague D G <br> Pas + vague D D|<img src="./images/bras_vague_D.png" width=100px/>|<img src="./images/bras_vague_G.png" width=100px/>|<img src="./images/pas_bras_vague_D.png" width=100px/>|<img src="./images/pas_bras_vague_D.png" width=100px/>|
 |-|-|-|-|-|
-|Vague G D <br> Pas + vague G G||||
-|Vague D G <br> Pas + vague D D||||
-|Vague G D <br> Pas + vague G G||||
-|Vague D G <br> Pas + vague D D||||
+|Vague G D <br> Pas + vague G G|<img src="./images/bras_vague_G.png" width=100px/>|<img src="./images/bras_vague_D.png" width=100px/>|<img src="./images/pas_bras_vague_G.png" width=100px/>|<img src="./images/pas_bras_vague_G.png" width=100px/>|
+|Vague D G <br> Pas + vague D D|<img src="./images/bras_vague_D.png" width=100px/>|<img src="./images/bras_vague_G.png" width=100px/>|<img src="./images/pas_bras_vague_D.png" width=100px/>|<img src="./images/pas_bras_vague_D.png" width=100px/>|
+|Vague G D <br> Pas + vague G G|<img src="./images/bras_vague_G.png" width=100px/>|<img src="./images/bras_vague_D.png" width=100px/>|<img src="./images/pas_bras_vague_G.png" width=100px/>|<img src="./images/pas_bras_vague_G.png" width=100px/>|
+|Vague D G <br> Pas + vague D D|<img src="./images/bras_vague_D.png" width=100px/>|<img src="./images/bras_vague_G.png" width=100px/>|<img src="./images/pas_bras_vague_D.png" width=100px/>|<img src="./images/pas_bras_vague_D.png" width=100px/>|
